@@ -1,0 +1,25 @@
+{
+  "name": "num-js",
+  "version": "0.0.1",
+  "description": "numpy-like lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/techfort/num-js.git"
+  },
+  "keywords": [
+    "numpy",
+    "matrix",
+    "array",
+    "vector"
+  ],
+  "author": "joe minichino <joe.minichino@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techfort/num-js/issues"
+  },
+  "homepage": "https://github.com/techfort/num-js"
+}
